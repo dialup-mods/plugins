@@ -1,0 +1,9 @@
+[submodule "plugin-badplugin"]
+	path = plugin-badplugin
+	url = ssh://gitea@git.freeaol.now:2929/dialup/plugin-badplugin.git
+[submodule "plugin-breakfastchef"]
+	path = plugin-breakfastchef
+	url = ssh://gitea@git.freeaol.now:2929/dialup/plugin-breakfastchef.git
+[submodule "plugin-toaster"]
+	path = plugin-toaster
+	url = ssh://gitea@git.freeaol.now:2929/dialup/plugin-toaster.git
