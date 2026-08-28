@@ -1,9 +1,9 @@
 [submodule "plugin-badplugin"]
 	path = plugin-badplugin
-	url = ssh://gitea@git.freeaol.now:2929/dialup/plugin-badplugin.git
+	url = git@github.com:dialup-mods/plugin-badplugin.git
 [submodule "plugin-breakfastchef"]
 	path = plugin-breakfastchef
-	url = ssh://gitea@git.freeaol.now:2929/dialup/plugin-breakfastchef.git
+	url = git@github.com:dialup-mods/plugin-breakfastchef.git
 [submodule "plugin-toaster"]
 	path = plugin-toaster
-	url = ssh://gitea@git.freeaol.now:2929/dialup/plugin-toaster.git
+	url = git@github.com:dialup-mods/plugin-toaster.git
